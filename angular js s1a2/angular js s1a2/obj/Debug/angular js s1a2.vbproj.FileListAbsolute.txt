@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2013\Projects\angular js s1a2\angular js s1a2\bin\angular js s1a2.dll.config
+c:\users\admin\documents\visual studio 2013\Projects\angular js s1a2\angular js s1a2\bin\angular js s1a2.dll
+c:\users\admin\documents\visual studio 2013\Projects\angular js s1a2\angular js s1a2\bin\angular js s1a2.pdb
+c:\users\admin\documents\visual studio 2013\Projects\angular js s1a2\angular js s1a2\bin\angular js s1a2.xml
+c:\users\admin\documents\visual studio 2013\Projects\angular js s1a2\angular js s1a2\obj\Debug\angular_js_s1a2.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\angular js s1a2\angular js s1a2\obj\Debug\angular js s1a2.vbproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\angular js s1a2\angular js s1a2\obj\Debug\angular js s1a2.dll
+c:\users\admin\documents\visual studio 2013\Projects\angular js s1a2\angular js s1a2\obj\Debug\angular js s1a2.xml
+c:\users\admin\documents\visual studio 2013\Projects\angular js s1a2\angular js s1a2\obj\Debug\angular js s1a2.pdb
